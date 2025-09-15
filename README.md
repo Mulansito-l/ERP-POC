@@ -1,4 +1,4 @@
-# ERP-IGO - Prueba de Concepto
+# ERP - Prueba de Concepto
 
 Este proyecto es una **prueba de concepto (PoC)** de un sistema ERP modular con arquitectura de **microservicios**.  
 Los microservicios están desarrollados en **Spring Boot**, mientras que el cliente está construido en **React** con Material-UI.  
@@ -15,7 +15,20 @@ La PoC permite:
 La solución está basada en arquitectura de **microservicios**.  
 Entre los diagramas diseñados se encuentran:
 
+- **Diagrama de contexto**
 
+![Diagrama de contexto](./imgs/diagramacontexto.png)
+
+- **Diagrama de componentes**  
+
+![Diagrama de componentes](./imgs/diagramacomponentes.png)
+- **Diagrama de despliegue**  
+
+![Diagrama de despliegue](./imgs/diagramadespliegue.png)
+
+- **Diagrama ER**
+
+![Diagrama Entidad-Relación](./imgs/diagramaer.png)
 
 ---
 
